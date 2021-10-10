@@ -1,6 +1,5 @@
 # Inbox-Cleaner
-Python3 script to clean inbox in gmail account. 
-
+Python3 script to clean gmail inbox. Works with Linux and Windows
 
 ## Usage
 
@@ -20,3 +19,9 @@ python3 -m pip install -r requirements.txt
 ```sh
 python3 IMap-script.py
 ```
+
+#### My First Python Script
+This is my first python script. Made because there was over 30,000 unreads emails in my inbox. 
+More scripts on the way with more learning studying I will be doing. 
+
+Thanks for stopping by :)
