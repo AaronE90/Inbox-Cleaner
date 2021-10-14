@@ -1,5 +1,6 @@
 # Inbox-Cleaner
 Python3 script to clean gmail inbox. Works with Linux and Windows
+Right now it only cleans a Gmails.
 
 ## Allowing Less Secure Apps Access to Gmail Account
 1. Goto Gmail Account settings
