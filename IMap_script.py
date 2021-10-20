@@ -68,7 +68,7 @@ def main():
 
         status, messages = imap.search(None, 'ALL')
         messages = messages[0].split(b' ')
-        print(f'{S_BRIGHT}{MAGENTA}Getting ready to clean...')
+        print(f'{S_BRIGHT}{MAGENTA}Getting ready to clean. May take a few minutes...')
 
         for mail in messages:
             _, msg = imap.fetch(mail, "(RFC822)")
